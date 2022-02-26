@@ -1,4 +1,5 @@
-![alt text](https://github.com/Neutrino-Tech/Wishfish-Pacman/wishfish.png)
+![alt text](https://github.com/Neutrino-Tech/Wishfish-Pacman/blob/main/wishfish.png)
+![alt text](https://github.com/Neutrino-Tech/Wishfish-Pacman/blob/main/wishfish-pacman.png)
 <h1>WishFish v3.0</h1>
                                                    
 <p>Using WishFish tool you can generate pacman phishing link can grab victim front camera pictures and also gives you lockup information of target ip address.
